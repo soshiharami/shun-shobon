@@ -12,3 +12,9 @@
 ## Achievement
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shun-shobon&margin-w=20)
+
+## Basic infomation
+
+![year](https://img.shields.io/badge/year-17-brightgreen?style=for-the-badge)
+![school](https://img.shields.io/badge/school-HNNCT-red?style=for-the-badge)
+![class](https://img.shields.io/badge/class-2J-blue?style=for-the-badge)
