@@ -18,3 +18,10 @@
 ![year](https://img.shields.io/badge/year-17-brightgreen?style=for-the-badge)
 ![school](https://img.shields.io/badge/school-HNNCT-red?style=for-the-badge)
 ![class](https://img.shields.io/badge/class-2J-blue?style=for-the-badge)
+
+## Environment
+
+![pc](https://img.shields.io/badge/pc-Macbook_pro-brightgreen?style=for-the-badge)
+![os](https://img.shields.io/badge/OS-Mac_OS-red?style=for-the-badge)
+![editor#1](https://img.shields.io/badge/editor%231-neovim-blue?style=for-the-badge)
+![editor#2](https://img.shields.io/badge/editor%232-jetbrains-orange?style=for-the-badge)
