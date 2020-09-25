@@ -15,7 +15,7 @@
 
 ## Basic infomation
 
-![year](https://img.shields.io/badge/year-17-brightgreen?style=for-the-badge)
+![age](https://img.shields.io/badge/age-17-brightgreen?style=for-the-badge)
 ![school](https://img.shields.io/badge/school-HNNCT-red?style=for-the-badge)
 ![class](https://img.shields.io/badge/class-2J-blue?style=for-the-badge)
 
