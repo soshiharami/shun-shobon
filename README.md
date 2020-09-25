@@ -30,3 +30,10 @@
 
 ![typescript](https://img.shields.io/badge/typescript-love_it-brightgreen?style=for-the-badge)
 ![haskell](https://img.shields.io/badge/haskell-it's_interesting-red?style=for-the-badge)
+
+## Links
+
+[![portfolio](https://img.shields.io/badge/portfolio-shun.technology-brightgreen?style=for-the-badge)](https://shun.technology)
+[![twitter](https://img.shields.io/badge/twitter-@programmer__shun-red?style=for-the-badge)](https://twitter.com/programmer_shun)
+[![qiita](https://img.shields.io/badge/qiita-@shun__shobon-blue?style=for-the-badge)](https://qiita.com/shun-shobon)
+[![atcoder](https://img.shields.io/badge/atcoder-@SHUN__shobon-orange?style=for-the-badge)](https://atcoder.jp/users/SHUN_shobon)
