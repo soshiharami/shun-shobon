@@ -25,3 +25,8 @@
 ![os](https://img.shields.io/badge/OS-Mac_OS-red?style=for-the-badge)
 ![editor#1](https://img.shields.io/badge/editor%231-neovim-blue?style=for-the-badge)
 ![editor#2](https://img.shields.io/badge/editor%232-jetbrains-orange?style=for-the-badge)
+
+## Favorite langs
+
+![typescript](https://img.shields.io/badge/typescript-love_it-brightgreen?style=for-the-badge)
+![haskell](https://img.shields.io/badge/haskell-it's_interesting-red?style=for-the-badge)
