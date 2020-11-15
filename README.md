@@ -9,7 +9,7 @@
   <img align="top" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shun-shobon&count-private=true&layout=compact">
 </span>
 
-## Achievement
+## Achievements
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shun-shobon)
 
