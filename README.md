@@ -11,7 +11,7 @@
 
 ## Achievement
 
-![trophy](https://github-profile-trophy.vercel.app/?username=shun-shobon&margin-w=20)
+![trophy](https://github-profile-trophy.vercel.app/?username=shun-shobon)
 
 ## Basic infomation
 
