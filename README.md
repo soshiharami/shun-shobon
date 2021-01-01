@@ -13,12 +13,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shun-shobon)
 
-## Basic infomation
-
-![age](https://img.shields.io/badge/age-17-brightgreen?style=for-the-badge)
-![school](https://img.shields.io/badge/school-HNNCT-red?style=for-the-badge)
-![class](https://img.shields.io/badge/class-2J-blue?style=for-the-badge)
-
 ## Skills
 
 <details>
