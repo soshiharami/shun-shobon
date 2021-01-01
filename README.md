@@ -19,17 +19,67 @@
 ![school](https://img.shields.io/badge/school-HNNCT-red?style=for-the-badge)
 ![class](https://img.shields.io/badge/class-2J-blue?style=for-the-badge)
 
-## Environment
+## Skills
 
-![pc](https://img.shields.io/badge/pc-Macbook_pro-brightgreen?style=for-the-badge)
-![os](https://img.shields.io/badge/OS-Mac_OS-red?style=for-the-badge)
-![editor#1](https://img.shields.io/badge/editor%231-neovim-blue?style=for-the-badge)
-![editor#2](https://img.shields.io/badge/editor%232-jetbrains-orange?style=for-the-badge)
+<details>
+  <summary>Lang</summary>
 
-## Favorite langs
+  - TypeScript (**Love it :two_hearts:**)
+  - JavaScript
+  - Python
+  - Haskell (**It's interesting**)
+  - HTML5/CSS3 (*little*)
+  - MySQL
+</details>
+  
+<details>
+  <summary>Frameworks & Libraries</summary>
 
-![typescript](https://img.shields.io/badge/typescript-love_it-brightgreen?style=for-the-badge)
-![haskell](https://img.shields.io/badge/haskell-it's_interesting-red?style=for-the-badge)
+  - React (**Most using**)
+  - Vue.js
+  - Preact
+  - Angular
+  - Next.js
+  - Nuxt.js
+  - Gatsby
+  - Ionic
+  - Three.js
+  - Apollo Server/Client
+  - TypeGraphQL
+  - Nexus
+  - Prisma
+  - TypeORM
+  - Express.js
+  - Fastify
+  - Jest
+</details>
+
+<details>
+  <summary>Tools</summary>
+
+  - Babel
+  - PostCSS
+  - Webpack
+  - ESLint
+  - StyleLint
+  - CommitLint
+  - Prettier
+  - Docker / Docker Compose
+  - GitHub Actions
+  - Travis CI
+  - Circle CI
+</details>
+
+<details>
+  <summary>Infrastructure</summary>
+
+  - Linux
+  - CentOS
+  - Alpine
+  - Google Cloud Platform
+  - Firebase
+  - Heroku
+</details>
 
 ## Links
 
