@@ -83,7 +83,9 @@
 
 ## Links
 
-[![portfolio](https://img.shields.io/badge/portfolio-shun.technology-brightgreen?style=for-the-badge)](https://shun.technology)
-[![twitter](https://img.shields.io/badge/twitter-@programmer__shun-red?style=for-the-badge)](https://twitter.com/programmer_shun)
-[![qiita](https://img.shields.io/badge/qiita-@shun__shobon-blue?style=for-the-badge)](https://qiita.com/shun-shobon)
-[![atcoder](https://img.shields.io/badge/atcoder-@SHUN__shobon-orange?style=for-the-badge)](https://atcoder.jp/users/SHUN_shobon)
+- My website: [shun.technology](https://shun.technology)
+- LAPRAS: [HERE](https://lapras.com/public/JSZGOUP)
+- Twitter: [@programmer_shun](https://twitter.com/programmer_shun)
+- Speaker Deck: [shunshobon](https://speakerdeck.com/shunshobon)
+- Qiita: [@shun-shobon](https://qiita.com/shun-shobon)
+- AtCoder: [@SHUN_shobon](https://atcoder.jp/users/SHUN_shobon)
