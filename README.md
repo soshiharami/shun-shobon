@@ -20,9 +20,10 @@
 
   - TypeScript (**Love it :two_hearts:**)
   - JavaScript
-  - Python
   - Haskell (**It's interesting**)
+  - Python
   - HTML5/CSS3 (*little*)
+  - Sass/SCSS
   - MySQL
 </details>
   
@@ -58,7 +59,6 @@
   - StyleLint
   - CommitLint
   - Prettier
-  - Docker / Docker Compose
   - GitHub Actions
   - Travis CI
   - Circle CI
@@ -70,6 +70,8 @@
   - Linux
   - CentOS
   - Alpine
+  - Docker / Docker Compose
+  - Podman
   - Google Cloud Platform
   - Firebase
   - Heroku
