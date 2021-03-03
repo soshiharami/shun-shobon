@@ -81,7 +81,7 @@
 
 - My website: [shun.technology](https://shun.technology)
 - LAPRAS: [HERE](https://lapras.com/public/JSZGOUP)
-- Twitter: [@programmer_shun](https://twitter.com/programmer_shun)
+- Twitter: [@shun_shobon](https://twitter.com/shun_shobon)
 - Speaker Deck: [shunshobon](https://speakerdeck.com/shunshobon)
 - Qiita: [@shun-shobon](https://qiita.com/shun-shobon)
 - AtCoder: [@SHUN_shobon](https://atcoder.jp/users/SHUN_shobon)
