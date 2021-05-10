@@ -16,72 +16,56 @@
 ## Skills
 
 <details>
-  <summary>Lang</summary>
-
-  - TypeScript (**Love it :two_hearts:**)
+  <summary>Frontend</summary>
   - JavaScript
-  - Haskell (**It's interesting**)
-  - Python
-  - HTML5/CSS3 (*little*)
-  - Sass/SCSS
-  - MySQL
-</details>
-  
-<details>
-  <summary>Frameworks & Libraries</summary>
-
-  - React (**Most using**)
-  - Vue.js
-  - Preact
-  - Angular
+  - TypeScript
+  - HTML5 / Pug
+  - CSS3 / SCSS
+  - React
   - Next.js
-  - Nuxt.js
-  - Gatsby
-  - Ionic
   - Three.js
-  - Apollo Server/Client
-  - TypeGraphQL
-  - Nexus
-  - Prisma
-  - TypeORM
-  - Express.js
-  - Fastify
-  - Jest
+  - Apollo Client
+  - Webpack
 </details>
 
 <details>
-  <summary>Tools</summary>
-
-  - Babel
-  - PostCSS
-  - Webpack
-  - ESLint
-  - StyleLint
-  - CommitLint
-  - Prettier
-  - GitHub Actions
-  - Travis CI
-  - Circle CI
+  <summary>Backend</summary>
+  - Node.js
+  - Fastify
+  - Apollo Server
+  - Prisma
+  - MySQL
+  - PostgreSQL
 </details>
 
 <details>
   <summary>Infrastructure</summary>
-
   - Linux
-  - CentOS
-  - Alpine
-  - Docker / Docker Compose
-  - Podman
   - Google Cloud Platform
   - Firebase
-  - Heroku
+  - Docker
+  - Podman
+  - Vagrant
+</details>
+
+<details>
+  <summary>Misc</summary>
+  - Haskell
+  - WebRTC
+  - Git / GitHub
+  - GitHub Actions
+  - Vim / NeoVim
+  - GraphQL
+  - CDN
 </details>
 
 ## Links
 
 - My website: [shun.technology](https://shun.technology)
-- LAPRAS: [HERE](https://lapras.com/public/JSZGOUP)
 - Twitter: [@shun_shobon](https://twitter.com/shun_shobon)
-- Speaker Deck: [shunshobon](https://speakerdeck.com/shunshobon)
+- Facebook: [@shunshobon](https://facebook.com/shunshobon)
 - Qiita: [@shun-shobon](https://qiita.com/shun-shobon)
-- AtCoder: [@SHUN_shobon](https://atcoder.jp/users/SHUN_shobon)
+- Keybase: [@shunshobon](https://keybase.io/shunshobon)
+- Speaker Deck: [@shunshobon](https://speakerdeck.com/shunshobon)
+- Wantedly: [@shun_shobon](https://wantedly.com/id/shun_shobon)
+- LAPRAS: [HERE](https://lapras.com/public/JSZGOUP)
