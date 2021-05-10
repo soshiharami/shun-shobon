@@ -17,6 +17,7 @@
 
 <details>
   <summary>Frontend</summary>
+
   - JavaScript
   - TypeScript
   - HTML5 / Pug
@@ -30,6 +31,7 @@
 
 <details>
   <summary>Backend</summary>
+
   - Node.js
   - Fastify
   - Apollo Server
@@ -40,6 +42,7 @@
 
 <details>
   <summary>Infrastructure</summary>
+
   - Linux
   - Google Cloud Platform
   - Firebase
@@ -50,6 +53,7 @@
 
 <details>
   <summary>Misc</summary>
+
   - Haskell
   - WebRTC
   - Git / GitHub
