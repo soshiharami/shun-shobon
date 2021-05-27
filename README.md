@@ -55,6 +55,12 @@
   <summary>Misc</summary>
 
   - Haskell
+  - Scala
+  - Erlang
+  - OCaml
+  - Elm
+  - F#
+  - Elixir
   - WebRTC
   - Git / GitHub
   - GitHub Actions
